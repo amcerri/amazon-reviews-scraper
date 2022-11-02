@@ -18,6 +18,6 @@ I've used it on Visual Studio Code, but you can use whatever you are used to or 
 
 ## Running the program
 
-The only file you need to open in order to run the program is [amazon_reviews_scraper.ipynb](amcerri/amazon-reviews-scraper/blob/main/amazon_web_scraping/web_scraping.ipynb). This is a Jupyter Notebook file, which you can open with Jupyter Notebook. 
+The only file you need to open in order to run the program is [web_scraping.ipynb](https://github.com/amcerri/amazon-reviews-scraper/blob/main/amazon_web_scraping/web_scraping.ipynb). This is a Jupyter Notebook file, which you can open with Jupyter Notebook. 
 
 All the instructions are included in the notebook.
