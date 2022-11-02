@@ -13,6 +13,8 @@ SPIDER_MODULES = ['amazon_web_scraping.spiders']
 NEWSPIDER_MODULE = 'amazon_web_scraping.spiders'
 
 
+FEED_EXPORT_ENCODING = 'utf-8-sig'
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'amazon_web_scraping (+http://www.yourdomain.com)'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
