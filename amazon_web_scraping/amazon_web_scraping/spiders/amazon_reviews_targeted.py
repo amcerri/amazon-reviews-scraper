@@ -33,4 +33,3 @@ class AmazonReviewsTargetedSpider(scrapy.Spider):
                 yield response.follow(next_page, callback=self.parse)
 
             response.css('a[data-hook="see-all-reviews-link-foot"]::attr(href)').get()
-        
